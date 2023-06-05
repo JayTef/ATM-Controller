@@ -9,7 +9,7 @@ ATM-Controller requires [Java JDK 16.0.2](https://www.oracle.com/java/technologi
 1. Use the following command to clone this repository to your local machine:
 
 ```
-git clone https://github.com/username/repository.git
+git clone <url>
 ```
 
 2. Go to the following file:
